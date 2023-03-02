@@ -1,5 +1,5 @@
 # Sobre mim
-[ PT-BR ]<br>Estudante de **Ciência da Computação** no Instituto Federal Farroupilha<br>(IFFar).<br><br>Aprendendo Typescript e Svelte.<br>Possuo conhecimento em diferentes nívels em Python, C, Javascript,<br>HTML, CSS, PostgreSQL e MySQL.<br>
+[ PT-BR ]<br>Estudante de **Ciência da Computação** no Instituto Federal Farroupilha<br>(IFFar).<br><br>Aprendendo Typescript e Svelte.<br>Possuo conhecimento em diferentes níveis em Python, C, Javascript,<br>HTML, CSS, PostgreSQL e MySQL.<br>
 
 # About me
 <br>[ EN ]<br>**Computer Science** student at Instituto Federal Farroupilha (IFFar).<br><br>Learning Typescript and Svelte.<br>I have knowledge at different levels of Python, C, Javascript, HTML, CSS,<br>PostgreSQL and MySQL.
