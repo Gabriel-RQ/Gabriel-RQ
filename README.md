@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Full stack developer, Computer Science undergraduate student, constantly learning and very curious about technology.</p>
+<p align="left">Full stack developer, BSc in Computer Science, constantly learning and very curious about technology.</p>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">Desenvolvedor Full Stack, graduando em Ciência da Computação, constantemente aprendendo e muito curioso sobre tecnologia.</p>
+<p align="left">Desenvolvedor Full Stack, Bacharel em Ciência da Computação, constantemente aprendendo e muito curioso sobre tecnologia.</p>
 
 ###
 
